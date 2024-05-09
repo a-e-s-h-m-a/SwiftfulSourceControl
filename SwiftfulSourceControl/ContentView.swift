@@ -16,7 +16,10 @@ struct ContentView: View {
             Text("Swiftful thinking...")
         }
         .padding()
-        .padding()
+    
+        Button("click me!") {
+            
+        }
     }
 }
 
