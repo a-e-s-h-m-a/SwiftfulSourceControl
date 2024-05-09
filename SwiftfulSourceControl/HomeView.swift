@@ -1,0 +1,18 @@
+//
+//  HomeView.swift
+//  SwiftfulSourceControl
+//
+//  Created by Malith Madhushanka on 2024-05-09.
+//
+
+import SwiftUI
+
+struct HomeView: View {
+    var body: some View {
+        Text("Screen two")
+    }
+}
+
+#Preview {
+    HomeView()
+}
