@@ -26,7 +26,7 @@ struct ContentView: View {
         }
         .padding()
         
-        Button("Click me!") {
+        Button("Click!") {
             
         }
         
