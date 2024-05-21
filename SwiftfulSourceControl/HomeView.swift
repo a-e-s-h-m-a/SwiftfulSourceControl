@@ -11,7 +11,7 @@ import SwiftUI
 
 struct HomeView: View {
     
-    @State private var title: String = "hellow"
+    @State private var title: String = "hello world"
     
     var body: some View {
         VStack {
