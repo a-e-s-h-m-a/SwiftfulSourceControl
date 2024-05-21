@@ -5,6 +5,8 @@
 //  Created by Malith Madhushanka on 2024-05-09.
 //
 
+// Update documentation
+
 import SwiftUI
 
 struct HomeView: View {

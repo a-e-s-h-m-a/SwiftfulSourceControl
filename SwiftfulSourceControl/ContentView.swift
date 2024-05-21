@@ -14,10 +14,10 @@ struct ContentView: View {
                 VStack {
                     ForEach(0..<5) { _ in
                         VStack {
-                            Image(systemName: "globe")
+                            Image(systemName: "magnifyingglass")
                                 .font(.largeTitle)
                                 .foregroundStyle(.tint)
-                            Text("Swiftful Thinking")
+                            Text("Swiftful Thinking!!!")
                         }
                         .padding()
                     }
@@ -26,7 +26,7 @@ struct ContentView: View {
         }
         .padding()
         
-        Button("Click!") {
+        Button("Click me!") {
             
         }
         
